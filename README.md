@@ -27,7 +27,3 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/nour-elbassuny-b88951244/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.facebook.com/https://web.facebook.com/nour.saied.372" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
 <a target="_blank" href="https://www.youtube.com/https://www.youtube.com/@NourElbassuny" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Noureldin &show_icons=true&locale=en" alt="Noureldin " /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Noureldin &" alt="Noureldin " /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Noureldin &show_icons=true&locale=en&layout=compact" alt="Noureldin " /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Noureldin " alt="Noureldin " /></a></p>
