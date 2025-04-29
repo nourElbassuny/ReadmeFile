@@ -1,3 +1,26 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=noureldin2&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
+
+### About Me :
+I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> passionate about building innovative solutions.
+
+- 🔭 I'm currently working on enhancing my full-stack development skills
+- 🌱 I'm learning advanced software architecture patterns and cloud technologies
+- ⚡ In my free time, I solve problems on LeetCode and read tech articles
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Noureldin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nour-elbassuny-b88951244/)
+
+---
+
+### 🔥 My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noureldin2&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=noureldin2&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <h1>Hi 👋, I'm Noureldin </h1>
 <p>A passionate Software Engineer </p>
 <h2>🚀 Languages and Tools I Use</h2>
